@@ -1,7 +1,9 @@
 # news_disclosure_crawler
 
 ## 프로그램 개요
-
+```python
+python run_crawler.py
+```
 <img src="sample1.PNG">
 <img src="sample2.PNG">
 
